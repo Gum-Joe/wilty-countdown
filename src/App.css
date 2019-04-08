@@ -1,0 +1,32 @@
+.clock {
+	color: #FFEB3B;
+	font-size: 150px;
+	/* font-weight: bold; */
+	display: flex;
+	margin: 0 auto;
+}
+
+.title {
+	color: #FFC107;
+	text-transform: uppercase;
+	display: flex;
+	margin: 50px auto 0;
+	font-size: 50px;
+}
+
+#root {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+* {
+	text-align: center;
+	justify-content: center;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+img {
+	height: 256px;
+	width: 100vw;
+}
